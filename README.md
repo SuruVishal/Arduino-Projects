@@ -1,4 +1,4 @@
-# 🚀 Arduino Wokwi Simulation Project- Traffic Light Controller
+# 🤖Arduino Wokwi Simulation Project- Traffic Light Controller🚦
 
 This repository contains an automated simulation project designed for an Arduino/ESP32 platform using Wokwi. 
 
